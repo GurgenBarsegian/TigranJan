@@ -1,0 +1,1 @@
+const lernik = 100;
