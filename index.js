@@ -1,0 +1,1 @@
+const tigran = 100;
