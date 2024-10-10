@@ -1,1 +1,1 @@
-const tigran = 100;
+const lernik = 100;
